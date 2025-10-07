@@ -1,16 +1,16 @@
 #Index
-•	Mission Objective
-•	Architecture
+>	Mission Objective
+>	Architecture
 .1.	 Specifications 
 .2.	 Usage
 .3.	 ISA
-•	Microarchitecture
+>	Microarchitecture
 .1.	 The Pipeline
 .2.	 Pipeline Data Paths
 .3.	 Pipeline Controller
 .4.	 Hazard Management
 .5.	 Everything Else
-•	Sample Programs
+>	Sample Programs
 .1.	 The Fibonacci Sequence
 .2.	 The Call Stack
 .3.	 Calculator
