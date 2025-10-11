@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x ~/ngit/ngit
+chmod +x ~/ngit/ngit.sh
 
 op=$1
 shift
@@ -11,3 +11,4 @@ elif [$op -eq ""]; then
 else
 	echo "ngit: command not found"
 fi
+

@@ -2,7 +2,7 @@
 chmod +x ~/ngit/show.sh
 
 if [ $1 != "-detailed" ]; then
-	git show --summary $1
+	git show $1
 else
-	git show $2
+	git show --summary $2
 fi
