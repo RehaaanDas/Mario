@@ -1,7 +1,0 @@
-Running: xsim.dir/CPUSandbox_behav/xsimk.exe -simmode gui -wdb CPUSandbox_behav.wdb -simrunnum 0 -socket 53590
-Design successfully loaded
-Design Loading Memory Usage: 8652 KB (Peak: 8652 KB)
-Design Loading CPU Usage: 30 ms
-Simulation completed
-Simulation Memory Usage: 9212 KB (Peak: 9212 KB)
-Simulation CPU Usage: 4702 ms
